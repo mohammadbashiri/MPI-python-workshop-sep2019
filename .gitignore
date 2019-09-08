@@ -1,0 +1,7 @@
+*.pyc
+*.pyd
+*.pdf
+*~
+.idea
+.cache
+.ipynb_checkpoints
